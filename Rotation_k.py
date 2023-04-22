@@ -3,7 +3,7 @@
 """
 Created on Mon Dec 12 22:00:37 2022
 
-@author: landau
+@author: yota
 """
 
 """A sorted array A of n > 1 distinct integers has undergone
